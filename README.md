@@ -15,8 +15,8 @@
 11. Metting Setup
 12. Meeting Room
 13. Schedule Meeting
-14. 
-15.
+14. Upcoming Meetings Page
+15. Previous Meetings Page
 16.
 17.
 18.
