@@ -1,3 +1,5 @@
+'use client';
+
 import { useEffect, useState } from "react";
 import { Call, useStreamVideoClient } from "@stream-io/video-react-sdk";
 import { useUser } from "@clerk/nextjs";
@@ -50,7 +52,7 @@ export const useGetCalls = () => {
   return {
     endedCalls,
     upcomingCalls,
-    recordings: calls,
+    callRecordings: calls,
     isLoading,
   };
 }
