@@ -10,7 +10,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Zommer",
+  title: "Zoomer",
   description: "Video calling app",
   icons: {
     icon: '/icons/logo.svg',
